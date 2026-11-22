@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nearplayer.app",
+      "sha256_cert_fingerprints": ["06:46:C0:AD:72:D5:C9:4C:50:F1:C3:0C:DA:44:88:2E:9C:EF:F2:97:74:B6:A6:AD:9E:31:B0:4A:0E:A8:84:DA"]
+    }
+  }
+]
